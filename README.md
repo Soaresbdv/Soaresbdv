@@ -26,8 +26,6 @@
 
 
   <h2>Future Studies 📖</h2>
-
-  <img style="width: 80px; height: 75px; margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="Rust" />
   <img style="width: 80px; height: 75px; margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" />
   <img style="width: 80px; height: 75px; margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" />
   <img style="width: 80px; height: 75px; margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Flutter" />
